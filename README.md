@@ -2,6 +2,10 @@
 
 给普通中兴 F50 的 UFI-TOOLS 高级后台提供新的控制台界面。保留原有设置与插件交互，重新整理导航、配色和布局。
 
+[下载 v1.0.1 安装包](https://github.com/weixunkkkkk/f50-ufi-console-ui/releases/tag/v1.0.1) · [更新记录](CHANGELOG.md)
+
+下载 Release 里的 ZIP 压缩包后先解压，再导入中文文件名的 HTML。若单独下载 Release 的 HTML，请先将文件名改为 `F50控制台界面_1.0.1.html` 再导入，避免与已有插件形成不同名称。
+
 ![界面预览](docs/overview.png)
 
 
